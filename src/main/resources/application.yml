@@ -1,5 +1,6 @@
 server:
   port: 8080
+  #tips
 spring:
   datasource:
     url: jdbc:mysql://10.0.91.18:33306/test?characterEncoding=utf-8
